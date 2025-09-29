@@ -2,4 +2,4 @@
 $t = "teste";
 $c = "concatenacao";
 
-echo $t
+echo $t . " a ". $c; 
